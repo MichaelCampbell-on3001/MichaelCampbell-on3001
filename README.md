@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**MichaelCampbell-on3001/MichaelCampbell-on3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 <img src="greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -139,7 +124,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## ABout ME  
+## About ME  
 U.S. Navy Veteran. Full Stack Developer. Maker Of Great Things.
 
 <br/>  
