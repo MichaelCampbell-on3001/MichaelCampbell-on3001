@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## ABout ME  
+## About ME  
 U.S. Navy Veteran. Full Stack Developer. Maker Of Great Things.
 
 <br/>  
