@@ -7,7 +7,7 @@
 ### <div align="center">I'm Michael, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
--  I’m currently working on [A News Bog](https://eventconnews.com)🗞️  
+-  I’m currently working on [A News Blog](https://eventconnews.com)🗞️  
   
 
 - 🌱 I’m currently learning Mongo DB, Express, React and Node  
