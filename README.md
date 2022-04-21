@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Mongo DB, Express, React and Node  
   
 
-- ❓ Ask me about anything related carpentry, camping or hiking in the PNW.    
+- ❓ Ask me about anything related to carpentry, camping or hiking in the PNW.    
   
 
 - ⚡ Fun fact: I build wooden boats  
